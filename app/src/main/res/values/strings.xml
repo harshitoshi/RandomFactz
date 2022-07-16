@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Randoms</string>
+    <string name="next_fact">Next Fact</string>
+    <string name="share_the_fact">Share the fact</string>
+    <string name="gofornext">GoForNext</string>
+    <string name="share">share</string>
+    <string name="go_for_next">go for next</string>
+</resources>
